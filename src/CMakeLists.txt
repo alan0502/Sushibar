@@ -1,0 +1,9 @@
+add_executable(CG_2025_HW1
+"main.cpp"
+"stb_image.cpp"
+) 
+target_link_libraries(CG_2025_HW1
+glfw
+glm::glm
+glad
+)

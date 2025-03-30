@@ -1,0 +1,10 @@
+[
+    {
+      "name": "w64devkit-g++",
+      "compilers": {
+        "C": "C:/w64devkit/bin/gcc.exe",
+        "CXX": "C:/w64devkit/bin/g++.exe"
+      }
+    }
+  ]
+  
